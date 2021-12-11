@@ -20,7 +20,7 @@
     <li><a href="#15">Acessar outra branch</a></li>
     <li><a href="#16">Fusão de duas branches</a></li>
 </ul>
-------------------------------------------------------------------------------------------------------------------------
+<h2 align="center"></h2>
 <h3 id="1">Iniciar um novo repositório local</h3>
 
 ```
