@@ -19,6 +19,7 @@
     <li><a href="#14">Visualizar uma branch</a></li>
     <li><a href="#15">Acessar outra branch</a></li>
     <li><a href="#16">Fusão de duas branches</a></li>
+    <li><a href="#17">Adicionar novas modificações no commit anterior</a></li>
 </ul>
 <h2 align="center"></h2>
 <h3 id="1">Iniciar um novo repositório local</h3>
@@ -100,4 +101,9 @@ git checkout nome_branch
   
 ```
 git merge nome_branch
+```
+<h3 id="17">Adicionar novas modificações no commit anterior</h3>
+  
+```
+git commit --amend --no-edit
 ```
